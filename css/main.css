@@ -10,8 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  font: "Roboto Slab", serif;
-  font-family: "Roboto Slab", serif;
+  font-family: "Roboto Slab", sans-serif;
 }
 
 *, *::before, *::after {
